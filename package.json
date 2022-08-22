@@ -1,5 +1,5 @@
 {
-  "name": "@dangtuannghia/jazzicon",
+  "name": "@dangtuannghia/oneblocklab-jazzicon",
   "private": false,
   "version": "0.0.1",
   "description": "React Native Jazzicon",
@@ -41,5 +41,8 @@
     "tempack": "^1.1.0",
     "tslint": "^5.11.0",
     "typescript": "^3.0.1"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
