@@ -1,19 +1,19 @@
 {
-  "name": "react-native-jazzicon",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@dangtuannghia/jazzicon",
+  "private": false,
+  "version": "0.0.1",
   "description": "React Native Jazzicon",
   "author": {
-    "name": "Stanislaw Glogowski",
-    "email": "hello@newobject.pl"
+    "name": "Dang Tuan Nghia",
+    "email": "dangnghia2101@gmail.com"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stanislaw-glogowski/react-native-jazzicon.git"
+    "url": "https://github.com/dangnghia2101/oneblock-jazzicon.git"
   },
   "bugs": {
-    "url": "https://github.com/stanislaw-glogowski/react-native-jazzicon/issues"
+    "url": "https://github.com/dangnghia2101/oneblock-jazzicon/"
   },
   "scripts": {
     "clean": "rimraf ./dist/*",
